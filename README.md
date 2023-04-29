@@ -1,1 +1,3 @@
-# socket.io - 1
+# socket.io
+
+Followed Hitesh Chaudhary tutorial (https://youtu.be/BAZ-tJOYhlA)
